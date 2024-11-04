@@ -16,5 +16,10 @@ namespace PROG2EVA1CValdiviaAParraGAvila
         {
             InitializeComponent();
         }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
