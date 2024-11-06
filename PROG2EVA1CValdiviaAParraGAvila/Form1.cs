@@ -11,7 +11,12 @@ using System.Windows.Forms;
 namespace PROG2EVA1CValdiviaAParraGAvila
 {
     public partial class Form1 : Form
+
+        //holaaaaa
     {
+
+  
+
         public Form1()
         {
             InitializeComponent();
@@ -19,7 +24,7 @@ namespace PROG2EVA1CValdiviaAParraGAvila
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
-
+          
         }
     }
 }
