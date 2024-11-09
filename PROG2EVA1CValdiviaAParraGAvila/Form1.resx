@@ -131,18 +131,21 @@
   <data name="label100.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label100.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label100.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="label100.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 574</value>
+    <value>615, 567</value>
   </data>
   <data name="label100.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label100.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label100.TabIndex" type="System.Int32, mscorlib">
     <value>99</value>
@@ -168,17 +171,20 @@
   <data name="label99.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label99.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label99.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label99.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 574</value>
+    <value>546, 567</value>
   </data>
   <data name="label99.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label99.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label99.TabIndex" type="System.Int32, mscorlib">
     <value>98</value>
@@ -204,17 +210,20 @@
   <data name="label98.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label98.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label98.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label98.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 574</value>
+    <value>480, 567</value>
   </data>
   <data name="label98.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label98.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label98.TabIndex" type="System.Int32, mscorlib">
     <value>97</value>
@@ -240,17 +249,20 @@
   <data name="label97.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label97.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label97.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label97.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 574</value>
+    <value>414, 567</value>
   </data>
   <data name="label97.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label97.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label97.TabIndex" type="System.Int32, mscorlib">
     <value>96</value>
@@ -276,17 +288,20 @@
   <data name="label96.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label96.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label96.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label96.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 574</value>
+    <value>348, 567</value>
   </data>
   <data name="label96.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label96.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label96.TabIndex" type="System.Int32, mscorlib">
     <value>95</value>
@@ -312,17 +327,20 @@
   <data name="label95.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label95.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label95.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label95.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 574</value>
+    <value>282, 567</value>
   </data>
   <data name="label95.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label95.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label95.TabIndex" type="System.Int32, mscorlib">
     <value>94</value>
@@ -348,17 +366,20 @@
   <data name="label94.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label94.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label94.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label94.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 574</value>
+    <value>216, 567</value>
   </data>
   <data name="label94.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label94.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label94.TabIndex" type="System.Int32, mscorlib">
     <value>93</value>
@@ -384,17 +405,20 @@
   <data name="label93.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label93.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label93.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label93.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 574</value>
+    <value>150, 567</value>
   </data>
   <data name="label93.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label93.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label93.TabIndex" type="System.Int32, mscorlib">
     <value>92</value>
@@ -420,17 +444,20 @@
   <data name="label92.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label92.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label92.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label92.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 574</value>
+    <value>84, 567</value>
   </data>
   <data name="label92.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label92.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label92.TabIndex" type="System.Int32, mscorlib">
     <value>91</value>
@@ -456,17 +483,20 @@
   <data name="label91.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label91.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label91.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label91.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 574</value>
+    <value>18, 567</value>
   </data>
   <data name="label91.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label91.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label91.TabIndex" type="System.Int32, mscorlib">
     <value>90</value>
@@ -492,17 +522,20 @@
   <data name="label90.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label90.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label90.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label90.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 511</value>
+    <value>615, 505</value>
   </data>
   <data name="label90.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label90.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label90.TabIndex" type="System.Int32, mscorlib">
     <value>89</value>
@@ -528,17 +561,20 @@
   <data name="label89.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label89.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label89.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label89.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 511</value>
+    <value>546, 505</value>
   </data>
   <data name="label89.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label89.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label89.TabIndex" type="System.Int32, mscorlib">
     <value>88</value>
@@ -564,17 +600,20 @@
   <data name="label88.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label88.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label88.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label88.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 511</value>
+    <value>480, 505</value>
   </data>
   <data name="label88.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label88.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label88.TabIndex" type="System.Int32, mscorlib">
     <value>87</value>
@@ -600,17 +639,20 @@
   <data name="label87.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label87.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label87.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label87.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 511</value>
+    <value>414, 505</value>
   </data>
   <data name="label87.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label87.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label87.TabIndex" type="System.Int32, mscorlib">
     <value>86</value>
@@ -636,17 +678,20 @@
   <data name="label86.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label86.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label86.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label86.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 511</value>
+    <value>348, 505</value>
   </data>
   <data name="label86.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label86.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label86.TabIndex" type="System.Int32, mscorlib">
     <value>85</value>
@@ -672,17 +717,20 @@
   <data name="label85.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label85.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label85.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label85.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 511</value>
+    <value>282, 505</value>
   </data>
   <data name="label85.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label85.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label85.TabIndex" type="System.Int32, mscorlib">
     <value>84</value>
@@ -708,17 +756,20 @@
   <data name="label84.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label84.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label84.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label84.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 511</value>
+    <value>216, 505</value>
   </data>
   <data name="label84.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label84.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label84.TabIndex" type="System.Int32, mscorlib">
     <value>83</value>
@@ -744,17 +795,20 @@
   <data name="label83.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label83.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label83.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label83.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 511</value>
+    <value>150, 505</value>
   </data>
   <data name="label83.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label83.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label83.TabIndex" type="System.Int32, mscorlib">
     <value>82</value>
@@ -780,17 +834,20 @@
   <data name="label82.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label82.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label82.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label82.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 511</value>
+    <value>84, 505</value>
   </data>
   <data name="label82.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label82.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label82.TabIndex" type="System.Int32, mscorlib">
     <value>81</value>
@@ -816,17 +873,20 @@
   <data name="label81.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label81.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label81.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label81.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 511</value>
+    <value>18, 505</value>
   </data>
   <data name="label81.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label81.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label81.TabIndex" type="System.Int32, mscorlib">
     <value>80</value>
@@ -852,17 +912,20 @@
   <data name="label80.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label80.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label80.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label80.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 450</value>
+    <value>615, 444</value>
   </data>
   <data name="label80.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label80.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label80.TabIndex" type="System.Int32, mscorlib">
     <value>79</value>
@@ -888,17 +951,20 @@
   <data name="label79.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label79.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label79.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label79.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 450</value>
+    <value>546, 444</value>
   </data>
   <data name="label79.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label79.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label79.TabIndex" type="System.Int32, mscorlib">
     <value>78</value>
@@ -924,17 +990,20 @@
   <data name="label78.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label78.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label78.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label78.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 450</value>
+    <value>480, 444</value>
   </data>
   <data name="label78.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label78.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label78.TabIndex" type="System.Int32, mscorlib">
     <value>77</value>
@@ -960,17 +1029,20 @@
   <data name="label77.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label77.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label77.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label77.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 450</value>
+    <value>414, 444</value>
   </data>
   <data name="label77.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label77.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label77.TabIndex" type="System.Int32, mscorlib">
     <value>76</value>
@@ -996,17 +1068,20 @@
   <data name="label76.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label76.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label76.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label76.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 450</value>
+    <value>348, 444</value>
   </data>
   <data name="label76.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label76.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label76.TabIndex" type="System.Int32, mscorlib">
     <value>75</value>
@@ -1032,17 +1107,20 @@
   <data name="label75.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label75.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label75.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label75.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 450</value>
+    <value>282, 444</value>
   </data>
   <data name="label75.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label75.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label75.TabIndex" type="System.Int32, mscorlib">
     <value>74</value>
@@ -1068,17 +1146,20 @@
   <data name="label74.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label74.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label74.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label74.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 450</value>
+    <value>216, 444</value>
   </data>
   <data name="label74.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label74.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label74.TabIndex" type="System.Int32, mscorlib">
     <value>73</value>
@@ -1104,17 +1185,20 @@
   <data name="label73.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label73.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label73.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label73.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 450</value>
+    <value>150, 444</value>
   </data>
   <data name="label73.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label73.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label73.TabIndex" type="System.Int32, mscorlib">
     <value>72</value>
@@ -1140,17 +1224,20 @@
   <data name="label72.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label72.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label72.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label72.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 450</value>
+    <value>84, 444</value>
   </data>
   <data name="label72.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label72.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label72.TabIndex" type="System.Int32, mscorlib">
     <value>71</value>
@@ -1176,17 +1263,20 @@
   <data name="label71.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label71.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label71.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label71.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 450</value>
+    <value>18, 444</value>
   </data>
   <data name="label71.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label71.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label71.TabIndex" type="System.Int32, mscorlib">
     <value>70</value>
@@ -1212,17 +1302,20 @@
   <data name="label70.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label70.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label70.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label70.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 389</value>
+    <value>615, 383</value>
   </data>
   <data name="label70.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label70.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label70.TabIndex" type="System.Int32, mscorlib">
     <value>69</value>
@@ -1248,17 +1341,20 @@
   <data name="label69.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label69.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label69.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label69.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 389</value>
+    <value>546, 383</value>
   </data>
   <data name="label69.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label69.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label69.TabIndex" type="System.Int32, mscorlib">
     <value>68</value>
@@ -1284,17 +1380,20 @@
   <data name="label68.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label68.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label68.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label68.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 389</value>
+    <value>480, 383</value>
   </data>
   <data name="label68.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label68.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label68.TabIndex" type="System.Int32, mscorlib">
     <value>67</value>
@@ -1320,17 +1419,20 @@
   <data name="label67.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label67.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label67.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label67.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 389</value>
+    <value>414, 383</value>
   </data>
   <data name="label67.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label67.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label67.TabIndex" type="System.Int32, mscorlib">
     <value>66</value>
@@ -1356,17 +1458,20 @@
   <data name="label66.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label66.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label66.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label66.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 389</value>
+    <value>348, 383</value>
   </data>
   <data name="label66.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label66.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label66.TabIndex" type="System.Int32, mscorlib">
     <value>65</value>
@@ -1392,17 +1497,20 @@
   <data name="label65.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label65.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label65.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label65.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 389</value>
+    <value>282, 383</value>
   </data>
   <data name="label65.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label65.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label65.TabIndex" type="System.Int32, mscorlib">
     <value>64</value>
@@ -1428,17 +1536,20 @@
   <data name="label64.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label64.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label64.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label64.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 389</value>
+    <value>216, 383</value>
   </data>
   <data name="label64.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label64.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label64.TabIndex" type="System.Int32, mscorlib">
     <value>63</value>
@@ -1464,17 +1575,20 @@
   <data name="label63.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label63.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label63.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label63.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 389</value>
+    <value>150, 383</value>
   </data>
   <data name="label63.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label63.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label63.TabIndex" type="System.Int32, mscorlib">
     <value>62</value>
@@ -1500,17 +1614,20 @@
   <data name="label62.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label62.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label62.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label62.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 389</value>
+    <value>84, 383</value>
   </data>
   <data name="label62.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label62.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label62.TabIndex" type="System.Int32, mscorlib">
     <value>61</value>
@@ -1536,17 +1653,20 @@
   <data name="label61.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label61.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label61.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label61.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 389</value>
+    <value>18, 383</value>
   </data>
   <data name="label61.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label61.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label61.TabIndex" type="System.Int32, mscorlib">
     <value>60</value>
@@ -1572,17 +1692,20 @@
   <data name="label60.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label60.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label60.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label60.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 328</value>
+    <value>615, 322</value>
   </data>
   <data name="label60.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label60.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label60.TabIndex" type="System.Int32, mscorlib">
     <value>59</value>
@@ -1608,17 +1731,20 @@
   <data name="label59.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label59.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label59.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label59.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 328</value>
+    <value>546, 322</value>
   </data>
   <data name="label59.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label59.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label59.TabIndex" type="System.Int32, mscorlib">
     <value>58</value>
@@ -1644,17 +1770,20 @@
   <data name="label58.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label58.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label58.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label58.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 328</value>
+    <value>480, 322</value>
   </data>
   <data name="label58.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label58.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label58.TabIndex" type="System.Int32, mscorlib">
     <value>57</value>
@@ -1680,17 +1809,20 @@
   <data name="label57.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label57.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label57.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label57.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 328</value>
+    <value>414, 322</value>
   </data>
   <data name="label57.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label57.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label57.TabIndex" type="System.Int32, mscorlib">
     <value>56</value>
@@ -1716,17 +1848,20 @@
   <data name="label56.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label56.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label56.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label56.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 328</value>
+    <value>348, 322</value>
   </data>
   <data name="label56.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label56.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label56.TabIndex" type="System.Int32, mscorlib">
     <value>55</value>
@@ -1752,17 +1887,20 @@
   <data name="label55.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label55.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label55.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label55.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 328</value>
+    <value>282, 322</value>
   </data>
   <data name="label55.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label55.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label55.TabIndex" type="System.Int32, mscorlib">
     <value>54</value>
@@ -1788,17 +1926,20 @@
   <data name="label54.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label54.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label54.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label54.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 328</value>
+    <value>216, 322</value>
   </data>
   <data name="label54.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label54.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label54.TabIndex" type="System.Int32, mscorlib">
     <value>53</value>
@@ -1824,17 +1965,20 @@
   <data name="label53.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label53.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label53.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label53.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 328</value>
+    <value>150, 322</value>
   </data>
   <data name="label53.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label53.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label53.TabIndex" type="System.Int32, mscorlib">
     <value>52</value>
@@ -1860,17 +2004,20 @@
   <data name="label52.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label52.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label52.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label52.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 328</value>
+    <value>84, 322</value>
   </data>
   <data name="label52.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label52.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label52.TabIndex" type="System.Int32, mscorlib">
     <value>51</value>
@@ -1896,17 +2043,20 @@
   <data name="label51.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label51.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label51.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label51.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 328</value>
+    <value>18, 322</value>
   </data>
   <data name="label51.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label51.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label51.TabIndex" type="System.Int32, mscorlib">
     <value>50</value>
@@ -1932,17 +2082,20 @@
   <data name="label50.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label50.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label50.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label50.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 267</value>
+    <value>615, 261</value>
   </data>
   <data name="label50.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label50.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label50.TabIndex" type="System.Int32, mscorlib">
     <value>49</value>
@@ -1968,17 +2121,20 @@
   <data name="label49.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label49.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label49.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label49.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 267</value>
+    <value>546, 261</value>
   </data>
   <data name="label49.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label49.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label49.TabIndex" type="System.Int32, mscorlib">
     <value>48</value>
@@ -2004,17 +2160,20 @@
   <data name="label48.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label48.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label48.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label48.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 267</value>
+    <value>480, 261</value>
   </data>
   <data name="label48.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label48.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label48.TabIndex" type="System.Int32, mscorlib">
     <value>47</value>
@@ -2040,17 +2199,20 @@
   <data name="label47.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label47.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label47.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label47.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 267</value>
+    <value>414, 261</value>
   </data>
   <data name="label47.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label47.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label47.TabIndex" type="System.Int32, mscorlib">
     <value>46</value>
@@ -2076,17 +2238,20 @@
   <data name="label46.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label46.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label46.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label46.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 267</value>
+    <value>348, 261</value>
   </data>
   <data name="label46.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label46.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label46.TabIndex" type="System.Int32, mscorlib">
     <value>45</value>
@@ -2112,17 +2277,20 @@
   <data name="label45.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label45.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label45.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label45.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 267</value>
+    <value>282, 261</value>
   </data>
   <data name="label45.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label45.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label45.TabIndex" type="System.Int32, mscorlib">
     <value>44</value>
@@ -2148,17 +2316,20 @@
   <data name="label44.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label44.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label44.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label44.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 267</value>
+    <value>216, 261</value>
   </data>
   <data name="label44.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label44.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label44.TabIndex" type="System.Int32, mscorlib">
     <value>43</value>
@@ -2184,17 +2355,20 @@
   <data name="label43.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label43.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label43.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label43.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 267</value>
+    <value>150, 261</value>
   </data>
   <data name="label43.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label43.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label43.TabIndex" type="System.Int32, mscorlib">
     <value>42</value>
@@ -2220,17 +2394,20 @@
   <data name="label42.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label42.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label42.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label42.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 267</value>
+    <value>84, 261</value>
   </data>
   <data name="label42.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label42.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label42.TabIndex" type="System.Int32, mscorlib">
     <value>41</value>
@@ -2256,17 +2433,20 @@
   <data name="label41.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label41.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label41.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label41.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 267</value>
+    <value>18, 261</value>
   </data>
   <data name="label41.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label41.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label41.TabIndex" type="System.Int32, mscorlib">
     <value>40</value>
@@ -2292,17 +2472,20 @@
   <data name="label40.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label40.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label40.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label40.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 206</value>
+    <value>615, 200</value>
   </data>
   <data name="label40.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label40.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label40.TabIndex" type="System.Int32, mscorlib">
     <value>39</value>
@@ -2328,17 +2511,20 @@
   <data name="label39.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label39.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label39.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label39.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 206</value>
+    <value>546, 200</value>
   </data>
   <data name="label39.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label39.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label39.TabIndex" type="System.Int32, mscorlib">
     <value>38</value>
@@ -2364,17 +2550,20 @@
   <data name="label38.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label38.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label38.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label38.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 206</value>
+    <value>480, 200</value>
   </data>
   <data name="label38.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label38.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label38.TabIndex" type="System.Int32, mscorlib">
     <value>37</value>
@@ -2400,17 +2589,20 @@
   <data name="label37.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label37.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label37.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label37.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 206</value>
+    <value>414, 200</value>
   </data>
   <data name="label37.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label37.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label37.TabIndex" type="System.Int32, mscorlib">
     <value>36</value>
@@ -2436,17 +2628,20 @@
   <data name="label36.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label36.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label36.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label36.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 206</value>
+    <value>348, 200</value>
   </data>
   <data name="label36.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label36.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label36.TabIndex" type="System.Int32, mscorlib">
     <value>35</value>
@@ -2472,17 +2667,20 @@
   <data name="label35.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label35.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label35.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 206</value>
+    <value>282, 200</value>
   </data>
   <data name="label35.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label35.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label35.TabIndex" type="System.Int32, mscorlib">
     <value>34</value>
@@ -2508,17 +2706,20 @@
   <data name="label34.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label34.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label34.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label34.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 206</value>
+    <value>216, 200</value>
   </data>
   <data name="label34.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label34.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label34.TabIndex" type="System.Int32, mscorlib">
     <value>33</value>
@@ -2544,17 +2745,20 @@
   <data name="label33.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label33.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label33.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 206</value>
+    <value>150, 200</value>
   </data>
   <data name="label33.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label33.TabIndex" type="System.Int32, mscorlib">
     <value>32</value>
@@ -2580,17 +2784,20 @@
   <data name="label32.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label32.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label32.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 206</value>
+    <value>84, 200</value>
   </data>
   <data name="label32.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label32.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label32.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -2616,17 +2823,20 @@
   <data name="label31.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label31.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label31.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 206</value>
+    <value>18, 200</value>
   </data>
   <data name="label31.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label31.TabIndex" type="System.Int32, mscorlib">
     <value>30</value>
@@ -2652,17 +2862,20 @@
   <data name="label30.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label30.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label30.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label30.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 145</value>
+    <value>615, 139</value>
   </data>
   <data name="label30.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label30.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label30.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
@@ -2688,17 +2901,20 @@
   <data name="label29.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label29.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label29.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 145</value>
+    <value>546, 139</value>
   </data>
   <data name="label29.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label29.TabIndex" type="System.Int32, mscorlib">
     <value>28</value>
@@ -2724,17 +2940,20 @@
   <data name="label28.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label28.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label28.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 145</value>
+    <value>480, 139</value>
   </data>
   <data name="label28.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label28.TabIndex" type="System.Int32, mscorlib">
     <value>27</value>
@@ -2760,17 +2979,20 @@
   <data name="label27.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label27.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label27.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 145</value>
+    <value>414, 139</value>
   </data>
   <data name="label27.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label27.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label27.TabIndex" type="System.Int32, mscorlib">
     <value>26</value>
@@ -2796,17 +3018,20 @@
   <data name="label26.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label26.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label26.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label26.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 145</value>
+    <value>348, 139</value>
   </data>
   <data name="label26.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label26.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label26.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -2832,17 +3057,20 @@
   <data name="label25.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label25.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label25.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 145</value>
+    <value>282, 139</value>
   </data>
   <data name="label25.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label25.TabIndex" type="System.Int32, mscorlib">
     <value>24</value>
@@ -2868,17 +3096,20 @@
   <data name="label24.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label24.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label24.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label24.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 145</value>
+    <value>216, 139</value>
   </data>
   <data name="label24.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label24.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label24.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -2904,17 +3135,20 @@
   <data name="label23.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label23.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 145</value>
+    <value>150, 139</value>
   </data>
   <data name="label23.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label23.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -2940,17 +3174,20 @@
   <data name="label22.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label22.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 145</value>
+    <value>84, 139</value>
   </data>
   <data name="label22.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label22.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -2976,17 +3213,20 @@
   <data name="label21.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 145</value>
+    <value>18, 139</value>
   </data>
   <data name="label21.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label21.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -3012,17 +3252,20 @@
   <data name="label20.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 84</value>
+    <value>615, 78</value>
   </data>
   <data name="label20.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label20.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -3048,17 +3291,20 @@
   <data name="label19.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 84</value>
+    <value>546, 78</value>
   </data>
   <data name="label19.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label19.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -3084,17 +3330,20 @@
   <data name="label18.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 84</value>
+    <value>480, 78</value>
   </data>
   <data name="label18.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label18.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -3120,17 +3369,20 @@
   <data name="label17.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 84</value>
+    <value>414, 78</value>
   </data>
   <data name="label17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label17.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -3156,17 +3408,20 @@
   <data name="label16.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 84</value>
+    <value>348, 78</value>
   </data>
   <data name="label16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label16.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -3192,17 +3447,20 @@
   <data name="label15.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 84</value>
+    <value>282, 78</value>
   </data>
   <data name="label15.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label15.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -3228,17 +3486,20 @@
   <data name="label14.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 84</value>
+    <value>216, 78</value>
   </data>
   <data name="label14.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label14.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -3264,17 +3525,20 @@
   <data name="label13.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 84</value>
+    <value>150, 78</value>
   </data>
   <data name="label13.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label13.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -3300,17 +3564,20 @@
   <data name="label12.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 84</value>
+    <value>84, 78</value>
   </data>
   <data name="label12.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label12.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -3336,17 +3603,20 @@
   <data name="label11.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 84</value>
+    <value>18, 78</value>
   </data>
   <data name="label11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label11.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -3372,17 +3642,20 @@
   <data name="label10.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>622, 23</value>
+    <value>615, 17</value>
   </data>
   <data name="label10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label10.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -3408,17 +3681,20 @@
   <data name="label9.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>554, 23</value>
+    <value>546, 17</value>
   </data>
   <data name="label9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label9.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -3444,17 +3720,20 @@
   <data name="label8.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 23</value>
+    <value>480, 17</value>
   </data>
   <data name="label8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label8.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -3480,17 +3759,20 @@
   <data name="label7.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>422, 23</value>
+    <value>414, 17</value>
   </data>
   <data name="label7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label7.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -3516,17 +3798,20 @@
   <data name="label6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 23</value>
+    <value>348, 17</value>
   </data>
   <data name="label6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label6.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -3552,17 +3837,20 @@
   <data name="label5.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 23</value>
+    <value>282, 17</value>
   </data>
   <data name="label5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label5.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -3588,17 +3876,20 @@
   <data name="label4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 23</value>
+    <value>216, 17</value>
   </data>
   <data name="label4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -3624,17 +3915,20 @@
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>158, 23</value>
+    <value>150, 17</value>
   </data>
   <data name="label3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3660,17 +3954,20 @@
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 23</value>
+    <value>84, 17</value>
   </data>
   <data name="label2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3696,14 +3993,17 @@
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 23</value>
+    <value>18, 17</value>
   </data>
   <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
+    <value>31, 29</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3748,19 +4048,22 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;tbLayout.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>6</value>
   </data>
   <data name="tbLayout.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label100" Row="9" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label99" Row="9" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label98" Row="9" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label97" Row="9" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label96" Row="9" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label95" Row="9" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label94" Row="9" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label93" Row="9" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label92" Row="9" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label91" Row="9" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label90" Row="8" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label89" Row="8" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label88" Row="8" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label87" Row="8" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label86" Row="8" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label85" Row="8" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label84" Row="8" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label83" Row="8" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label82" Row="8" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label81" Row="8" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label80" Row="7" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label79" Row="7" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label78" Row="7" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label77" Row="7" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label76" Row="7" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label75" Row="7" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label74" Row="7" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label73" Row="7" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label72" Row="7" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label71" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label70" Row="6" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label69" Row="6" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label68" Row="6" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label67" Row="6" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label66" Row="6" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label65" Row="6" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label64" Row="6" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label63" Row="6" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label62" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label61" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label60" Row="5" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label59" Row="5" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label58" Row="5" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label57" Row="5" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label56" Row="5" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label55" Row="5" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label54" Row="5" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label53" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label52" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label51" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label50" Row="4" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label49" Row="4" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label48" Row="4" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label47" Row="4" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label46" Row="4" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label45" Row="4" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label44" Row="4" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label43" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label42" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label41" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label40" Row="3" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label39" Row="3" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label38" Row="3" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label37" Row="3" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label36" Row="3" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label35" Row="3" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label34" Row="3" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label33" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label32" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label31" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label30" Row="2" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label29" Row="2" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label28" Row="2" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label27" Row="2" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label26" Row="2" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="2" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label24" Row="2" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label23" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label22" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="1" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="1" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="1" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="1" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="1" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label15" Row="1" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label14" Row="1" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label13" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label12" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label11" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label10" Row="0" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="label9" Row="0" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="label8" Row="0" RowSpan="1" Column="7" ColumnSpan="1" /&gt;&lt;Control Name="label7" Row="0" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="label6" Row="0" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="label5" Row="0" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="label4" Row="0" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label3" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label2" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label1" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10" /&gt;&lt;Rows Styles="Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10,Percent,10" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt, style=Bold</value>
+  </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>831, 32</value>
+    <value>738, 677</value>
   </data>
   <data name="button1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>157, 30</value>
+    <value>161, 76</value>
   </data>
   <data name="button1.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3778,19 +4081,22 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
+  </data>
+  <data name="button2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt, style=Bold</value>
   </data>
   <data name="button2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>831, 102</value>
+    <value>925, 674</value>
   </data>
   <data name="button2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>157, 30</value>
+    <value>161, 76</value>
   </data>
   <data name="button2.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3808,7 +4114,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="label101.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3817,7 +4123,7 @@
     <value>Microsoft Sans Serif, 13.8pt, style=Bold</value>
   </data>
   <data name="label101.Location" type="System.Drawing.Point, System.Drawing">
-    <value>778, 189</value>
+    <value>774, 32</value>
   </data>
   <data name="label101.Size" type="System.Drawing.Size, System.Drawing">
     <value>275, 29</value>
@@ -3838,7 +4144,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label101.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="palabrasEncontradas.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3850,7 +4156,7 @@
     <value>NoControl</value>
   </data>
   <data name="palabrasEncontradas.Location" type="System.Drawing.Point, System.Drawing">
-    <value>778, 238</value>
+    <value>774, 81</value>
   </data>
   <data name="palabrasEncontradas.Size" type="System.Drawing.Size, System.Drawing">
     <value>22, 29</value>
@@ -3871,6 +4177,73 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;palabrasEncontradas.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label102.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label102.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt, style=Bold</value>
+  </data>
+  <data name="label102.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label102.Location" type="System.Drawing.Point, System.Drawing">
+    <value>39, 674</value>
+  </data>
+  <data name="label102.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 29</value>
+  </data>
+  <data name="label102.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="label102.Text" xml:space="preserve">
+    <value>Como Jugar:</value>
+  </data>
+  <data name="&gt;&gt;label102.Name" xml:space="preserve">
+    <value>label102</value>
+  </data>
+  <data name="&gt;&gt;label102.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label102.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label102.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label103.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label103.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt, style=Bold</value>
+  </data>
+  <data name="label103.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label103.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 713</value>
+  </data>
+  <data name="label103.Size" type="System.Drawing.Size, System.Drawing">
+    <value>497, 40</value>
+  </data>
+  <data name="label103.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="label103.Text" xml:space="preserve">
+    <value>• Click izquierdo para seleccionar las letras de la palabra.
+• Click derecho para deseleccionar.</value>
+  </data>
+  <data name="&gt;&gt;label103.Name" xml:space="preserve">
+    <value>label103</value>
+  </data>
+  <data name="&gt;&gt;label103.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label103.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label103.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -3880,7 +4253,7 @@
     <value>8, 16</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1113, 700</value>
+    <value>1121, 789</value>
   </data>
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>

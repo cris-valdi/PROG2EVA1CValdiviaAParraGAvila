@@ -29,6 +29,9 @@ namespace PROG2EVA1CValdiviaAParraGAvila
         //para luego ver si coincide con alguna palabra del arreglo
         private string busqueda = "";
 
+        //Lista en la que se van a ir agregando las palabras encontradas (Especial para el metodo para que no se repita la seleccion)
+        private List<string> palabrasTachadas = new List<string>();
+
 
         //String en el que se ira concatenando las palabras ya encontradas
         private string palabrasYaEncontradas = "";
@@ -266,27 +269,40 @@ namespace PROG2EVA1CValdiviaAParraGAvila
         {
 
             //Capturamos el click del label que previamente asignamos al llenar la matriz
-            if (sender is Label label)
+            //De igual forma verificamos si viene del mouse (con el fin de identificar si es click izquierdo o derecho)
+            if (sender is Label label && e is MouseEventArgs mouseEvent)
             {
 
 
-                Console.WriteLine("Label: " + label.Text);
+                //Si se presiono click izquierdo haremos el procedimiento de buscar la palabra
+                if (mouseEvent.Button == MouseButtons.Left)
+                {
+
+                    Console.WriteLine("Label: " + label.Text);
 
 
-                //Cambiamos el color posterior del label al hacerle click
-                label.BackColor = Color.Red;
+                    //Cambiamos el color posterior del label al hacerle click
+                    label.BackColor = Color.DarkSeaGreen;
 
-                //Con este metodo iremos concatenando la letra seleccionada a un string
-                palabraEstaEnArreglo(label.Text);
+                    //Con este metodo iremos concatenando la letra seleccionada a un string
+                    palabraEstaEnArreglo(label.Text);
 
+                }
 
+                //Si se presiono click derecho deseleccionamos el texto
+                if(mouseEvent.Button == MouseButtons.Right)
+                {
 
+                    Limpieza();
+
+                }
 
             }
-
-
         }
 
+        //Metodo que va concatenando las letras que se van seleccionando con el mouse en un string
+        //y a su vez vamos verificando si ese string que se va armando a medida que el usuario va seleccionando letras
+        //coincide con alguno en el arreglo de palabras
         private void palabraEstaEnArreglo(string labelLetra)
         {
 
@@ -296,16 +312,22 @@ namespace PROG2EVA1CValdiviaAParraGAvila
             Console.WriteLine("Concatenacion? " + busqueda);
 
 
+            //Recorremos el arreglo de palabras
             for (int i = 0; i < palabras.Length; i++)
             {
 
                 string palabraDelArreglo = palabras[i];
 
 
-                //Si las letras que se concatenaron en el string para formar una palabra, coincide con alguna palabra del arreglo
-                //lo mostramos en un label al usuario
-                if (busqueda == palabraDelArreglo)
+                //Si las letras que se concatenaron en el string para formar una palabra, coincide con alguna palabra del arreglo,
+                //Y si de igual forma la palabra no se encuentra ya en una lista que va almacenando las palabras encontradas
+                //entonces mostramos la palabra encontrada en un label al usuario
+                if (busqueda == palabraDelArreglo && !palabraEsRepetida(palabraDelArreglo))
                 {
+
+                    //Agregamos la palabra encontrada en una lista (Esto con el fin de que no se pueda volver a seleccionar)
+                    palabrasTachadas.Add(palabraDelArreglo);
+
 
                     //Concatenamos la palabra encontrada en el string destinado a aquello 
                     palabrasYaEncontradas = palabrasYaEncontradas + "- " + palabras[i].ToString() + "\n";
@@ -325,10 +347,41 @@ namespace PROG2EVA1CValdiviaAParraGAvila
                     //Limpiamos busqueda para poder encontrar una nueva palabra
                     busqueda = "";
 
+
+
+
                 }
 
             }
         }
+
+
+        //Metodo para verificar si la palabra que se encontro al concatenar las letras no esta ya en la lista de palabras encontradas
+        private bool palabraEsRepetida(string palabra)
+        {
+            //Recorremos la lista para verificar si la palabra tachada esta repetida
+            for(int i = 0;i<palabrasTachadas.Count; i++)
+            {
+
+                //Si la palabra de la lista es igual a la palabra que se paso de parametro devolvemos que
+                //Esta repetida
+                if (palabrasTachadas[i] == palabra)
+                {
+                    //Mostramos una alerta y tambien limpiamos la seleccion de las letras
+                    MessageBox.Show("La palabra ya fue encontrada!");
+                    Limpieza();
+
+                    return true;
+                }
+
+            }
+
+            return false;
+
+
+        }
+
+
 
         //Metodo para verificar si ya se encontraron las palabras
         private void JuegoCompletado()
@@ -382,6 +435,8 @@ namespace PROG2EVA1CValdiviaAParraGAvila
 
         }
 
+
+        //Metodo para limpiar el color que indica que la letra esta seleccionado
         private void LimpiezaColorSeleccionadoLabel()
         {
             for (int columna = 0; columna < tbLayout.ColumnCount; columna++)
@@ -418,12 +473,15 @@ namespace PROG2EVA1CValdiviaAParraGAvila
 
         }
 
+        //Metodo para limpiar los strings que almacenan las palabras encontradas
         private void LimpiezaPalabrasEncontradas()
         {
+            palabrasTachadas.Clear();
             palabrasYaEncontradas = "";
             palabrasEncontradas.Text = "- ";
         }
 
+        //Metodo que limpia cada label y le asigna TRES ESPACIOS (Si no son tres espacios no funciona!)
         private void LimpiezaMatrizEntera()
         {
 
@@ -445,7 +503,10 @@ namespace PROG2EVA1CValdiviaAParraGAvila
         }
 
 
-        //Boton para deseleccionar
+
+
+
+        //Boton en el Form para deseleccionar
         private void button2_Click(object sender, EventArgs e)
         {
             Limpieza();
