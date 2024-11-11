@@ -131,6 +131,11 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.label101 = new System.Windows.Forms.Label();
+            this.palabrasEncontradas = new System.Windows.Forms.Label();
+            this.label102 = new System.Windows.Forms.Label();
+            this.label103 = new System.Windows.Forms.Label();
             this.tbLayout.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -752,16 +757,52 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button2
+            // 
+            resources.ApplyResources(this.button2, "button2");
+            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.button2.Name = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label101
+            // 
+            resources.ApplyResources(this.label101, "label101");
+            this.label101.Name = "label101";
+            // 
+            // palabrasEncontradas
+            // 
+            resources.ApplyResources(this.palabrasEncontradas, "palabrasEncontradas");
+            this.palabrasEncontradas.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.palabrasEncontradas.Name = "palabrasEncontradas";
+            // 
+            // label102
+            // 
+            resources.ApplyResources(this.label102, "label102");
+            this.label102.Name = "label102";
+            // 
+            // label103
+            // 
+            resources.ApplyResources(this.label103, "label103");
+            this.label103.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.label103.Name = "label103";
+            // 
             // Form1
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.label103);
+            this.Controls.Add(this.label102);
+            this.Controls.Add(this.palabrasEncontradas);
+            this.Controls.Add(this.label101);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.tbLayout);
             this.Name = "Form1";
             this.tbLayout.ResumeLayout(false);
             this.tbLayout.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -869,6 +910,11 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label label101;
+        private System.Windows.Forms.Label palabrasEncontradas;
+        private System.Windows.Forms.Label label102;
+        private System.Windows.Forms.Label label103;
     }
 }
 
